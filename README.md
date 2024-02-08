@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student of Techno International Newtown.<br>🌱 I’m currently learning Cloud Computing, AI & ML.<br>💬 Ask me something I don't know.<br>⚡ Fun fact: I don't know how to code;
+🔭 I’m currently a student of Techno International Newtown.<br>🌱 I’m currently learning Cloud Computing, AI & ML.<br>💬 Ask me something I don't know.<br>⚡ Fun fact: I don't know how to code. <br> 📫 Reach me at: subho.deep@icloud.com;
 
 
 ## 🌐 Socials:
